@@ -3,7 +3,22 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b9baea57984e940b6bfe05c592b42b73",
+  ".git/config": "38881ccff4dc4e249623736f3cd97a15",
+".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
+".git/HEAD": "4cf2d64e44205fe628ddd534e1151b58",
+".git/hooks/applypatch-msg.sample": "ce562e08d8098926a3862fc6e7905199",
+".git/hooks/commit-msg.sample": "579a3c1e12a1e74a98169175fb913012",
+".git/hooks/fsmonitor-watchman.sample": "ecbb0cb5ffb7d773cd5b2407b210cc3b",
+".git/hooks/post-update.sample": "2b7ea5cee3c49ff53d41e00785eb974c",
+".git/hooks/pre-applypatch.sample": "054f9ffb8bfe04a599751cc757226dda",
+".git/hooks/pre-commit.sample": "01b1688f97f94776baae85d77b06048b",
+".git/hooks/pre-push.sample": "3c5989301dd4b949dfa1f43738a22819",
+".git/hooks/pre-rebase.sample": "56e45f2bcbc8226d2b4200f7c46371bf",
+".git/hooks/pre-receive.sample": "2ad18ec82c20af7b5926ed9cea6aeedd",
+".git/hooks/prepare-commit-msg.sample": "2b5c047bdb474555e1787db32b2d2fc5",
+".git/hooks/update.sample": "517f14b9239689dff8bda3022ebd9004",
+".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
+"assets/AssetManifest.json": "b9baea57984e940b6bfe05c592b42b73",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/images/fall_back.jpeg": "1acdb0858cce510e3f3a9c9124d59d3e",
@@ -20,9 +35,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "797cd598417b5fa4889bf85084103cd1",
-"/": "797cd598417b5fa4889bf85084103cd1",
-"main.dart.js": "13f55d2f5a20f1d95f867fa3ffb3a54d",
+"index.html": "4e426270684c56c7ea0a737d33d64f84",
+"/": "4e426270684c56c7ea0a737d33d64f84",
+"main.dart.js": "61a05d1eb1c03ae08b20c7cc73a8bd56",
 "manifest.json": "e83ee93e6b14d4553c1a015bd5e682c1",
 "version.json": "2d9f3dcd292ea0b51efd2249e0f32b7a"
 };
